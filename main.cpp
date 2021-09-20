@@ -114,13 +114,13 @@ laundryMachine.spinClothes();
 laundryMachine.beep();
 
 //  8)
-//  Noun: Clock
-//  action 1: alarm goes off
-clock.soundAlarm();
-//  action 2: displays current time
-clock.displayTime();
-//  action 3: increase minute hand
-clock.increaseMinute();
+//  Noun: Electric Water Boiler
+//  action 1: disengage lock to dispense water
+electricWaterBoiler.unlockDispenser();
+//  action 2: heat up / boil water
+electricWaterBoiler.heatWater();
+//  action 3: dispense boiled water
+clock.increaseMinute.dispenseWater();
 
 //  9)
 //  Noun: Hand
