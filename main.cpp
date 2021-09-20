@@ -120,7 +120,7 @@ electricWaterBoiler.unlockDispenser();
 //  action 2: heat up / boil water
 electricWaterBoiler.heatWater();
 //  action 3: dispense boiled water
-clock.increaseMinute.dispenseWater();
+electricWaterBoiler.dispenseWater();
 
 //  9)
 //  Noun: Hand
