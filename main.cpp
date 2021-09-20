@@ -50,87 +50,95 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Bike
+//  action 1: brake the bike
+bike.brake();
+//  action 2: change gears
+bike.changeGear();
+//  action 3: ring the bike's bell
+bike.ringBell();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Mailbox
+//  action 1: store mail
+mailbox.storeMail();
+//  action 2: close mailbox's door
+mailbox.closeDoor();
+//  action 3: raise mailbox's flag
+mailbox.raiseFlag();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Slot Machine
+//  action 1: display game instructions
+slotMachine.displayInstructions();
+//  action 2: dispense coins
+slotMachine.dispenseCoins();
+//  action 3: trigger sound effects 
+slotMachine.playSoundEffects();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Treadmill
+//  action 1: increase treadmill's speed
+treadmill.increaseSpeed();
+//  action 2: change workout selection
+treadmill.changeWorkout();
+//  action 3: increase incline
+treadmill.increaseIncline();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Phone
+//  action 1: answer phone call
+phone.answerCall();
+//  action 2: raise volume
+phone.raiseVolume();
+//  action 3: power off phone
+phone.powerOff();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Computer
+//  action 1: display OS welcome screen
+computer.displayWelcomeScreen();
+//  action 2: trigger screen saver mode
+computer.showScreenSaver();
+//  action 3: runs out of battery and shuts down
+computer.shutDown();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Laundry Machine
+//  action 1: dispense water
+laundryMachine.dispenseWater();
+//  action 2: spin and wash clothes
+laundryMachine.spinClothes();
+//  action 3: beep when timer is over
+laundryMachine.beep();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Clock
+//  action 1: alarm goes off
+clock.soundAlarm();
+//  action 2: displays current time
+clock.displayTime();
+//  action 3: increase minute hand
+clock.increaseMinute();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Hand
+//  action 1: clench hand into a fast
+hand.clenchFist();
+//  action 2: grab an object
+hand.grab();
+//  action 3: release and let go of an object
+hand.release();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Dog
+//  action 1: bark at someone
+dog.bark();
+//  action 2: use its legs to run
+dog.run();
+//  action 3: sit down for a treat
+dog.sitDown();
 
 
 #endif
